@@ -1,9 +1,9 @@
 # JEI-CTF  – Write-up
 
 > Made By **InspiV Team**
-  * **LISSANON Cédric** [@LissanonCedric](https://twiter.com/LissanonCedric)
-  * **ADJADI Rousland** [@casias161](https://twiter.com/casias161)
-  * **MIGNANHOUANDE David** [@migdavid98](https://twiter.com/migdavid98)
+  * **LISSANON Cédric** [@LissanonCedric](https://twitter.com/LissanonCedric)
+  * **ADJADI Rousland** [@casias161](https://twitter.com/casias161)
+  * **MIGNANHOUANDE David** [@migdavid98](https://twitter.com/migdavid98)
   *  **KIKISSAGBE Rolack**
 
 ![](JEI-CTF.jpeg)
