@@ -16,6 +16,8 @@ Sur le site du challenge, un fichier pcap est mis à notre disposition. Une fois
 * **Password:** 6fZhTHj6_FfyJ
 * **Host:** 91.234.194.228
 * **Port:** 21
+
+
 Avec ces informations, nous allons nous connecter depuis un terminal.
 
 ```console
@@ -52,6 +54,8 @@ ftp> quit
 Après connexion au serveur ftp, nous avons pu récupérer trois fichiers:
 * [Flag.txt](Files/Flag.txt)
 * [angel.png](Files/angel.png)
+
+
 En ouvrant le premier fichier, on obtient le flag du challenge **Connect**
 ```
 JeiCtf_{ L'37S_937_S7@R73D }

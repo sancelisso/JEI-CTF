@@ -6,9 +6,7 @@
 
 > Hint! [https://tenor.com/search/john-cena-cant-see-me-gifs](https://tenor.com/search/john-cena-cant-see-me-gifs)
 ## Solution
-Pour ce challenge, il faut avouer que le lien du hint ne nous a pas été utile. You can't see me pour dire que le flag est un peu caché. Pour cela, nous nous sommes connecté à nouveau sur le serveur ftp et à l'aide de la commande ```ls -la```
-
- nous avons pu trouver un fichier
+Pour ce challenge, il faut avouer que le lien du hint ne nous a pas été utile. You can't see me pour dire que le flag est un peu caché. Pour cela, nous nous sommes connecté à nouveau sur le serveur ftp et à l'aide de la commande ```ls -la```  nous avons pu trouver un fichier
  [.flag2.txt](Files/.flag2.txt)
  ```console
  Sancelisso@kali:~/Bureau/JEI-CTF$ ftp 91.234.194.228
