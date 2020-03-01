@@ -7,6 +7,11 @@
 
 ## Challenges
 
-* [Petit caractères](Petit-caractères.md)
-* [Obeissant](Obeissant.md)
-* [Belle-au-bois-dormant](Belle-au-bois-dormant.md)
+* [Birthday](Birthday.md)
+* [Bat](Bat.md)
+* [Pas bête](Pas-bête.md)
+* [Meilleur danseur](Meilleur-danseur.md)
+* [Presque esclave](Presque-esclave.md)
+* [Affinite](Affinite.md)
+* [Miroir](Miroir.md)
+* [Vie en rose](Vie-en-rose.md)
