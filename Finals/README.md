@@ -10,10 +10,10 @@
 * [**Crypto**](Crypto)
 * [**Forensic**](Forensic/README.md)
 * [**Gifts**]()
-* [**Misc**]()
-* [**Reverse**]()
-* [**Stegano**]()
-* [**Trivia**]()
+* [**Misc**](Misc/README.md)
+* [**Reverse**](Reverse/README.md)
+* [**Stegano**](Stegano/README.md)
+* [**Trivia**](Trivia/README.md)
 
 ## Remerciements
 * [Ph03n1x](https://twitter.com/__Ph03n1x)
