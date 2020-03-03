@@ -4,15 +4,9 @@
 * **Points:** 350
 
 ## Challenge
->  Pourquoi je dois prendre le cinquième de l'héritage et mon frère le tiers ?.<br>
-IXNDZPXMXRPUMXXGSXKIKVUMXK
+>   DLIOWZONLHGFKHRWVWLDM
 ## Solution
-le mot clé Miroir fait penser à miror cypher atbash et donc le flag est :
+Avec un peu de recherche aussi sur le nom du challenge nous tombons sur le chiffrement affine,il mumure du cinquième et le tiers de l'héritage, et donc en prenant A=5,B=3 on a:BECAUSEHEISTHEELDERBROTHER et le flag est:
 ```
-WORLDALMOSTUPSIDEDOWN
-```
-enfin si ca ne marche pas utilisez
-
-```
-JeiCtf_{ DLIOWZONLHGFKHRWVWLDM }
+JeiCtf_{ BECAUSEHEISTHEELDERBROTHER }
 ```
